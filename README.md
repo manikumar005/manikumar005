@@ -9,3 +9,4 @@ manikumar005/manikumar005 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 -->
 I am good to learn python Now onwards i will update everythink in repository after I will commet then it will update to my repository
+Few actions we need to take everytime and update it then we can view whatever changes are happenibg here
